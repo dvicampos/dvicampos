@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior Web Developer.
+Software Developer Semi-Senior.
 
 
 ## 🌐 Socials:
